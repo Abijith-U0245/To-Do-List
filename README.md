@@ -77,17 +77,5 @@ To-Do-List/
 
 - This project is open source and available under the MIT License.
 
-```yaml
 
-
----
-
-### What I added:
-- **Install dependencies** step formatted with a `bash` code block (`npm install`).
-- The rest of the sections remain the same as previously, including setup for Firebase, app structure, etc.
-
-You can now **copy and paste** this directly into your GitHub `README.md` file!
-
-Let me know if you need any further adjustments!
-```
 
